@@ -10,7 +10,7 @@
     <label for="psw"><b>Password:     </b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 <br></br>
-   <button type="submit">LoginA</button>
+   <button type="submit">Login</button>
 <style>
 h1
 {
