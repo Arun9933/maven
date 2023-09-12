@@ -17,6 +17,7 @@ public class Greeter {
     return String.format("Hello, %s!", someone);
   }
   
+<<<<<<< HEAD
 //  public String greet2(String someone) {
 //	    return String.format("Hello, %s!", someone);
 //	  }
@@ -24,4 +25,6 @@ public class Greeter {
 //  public String greet3(String someone) {
 //	    return String.format("Hello, %s!", someone);
 //	  }
+=======
+>>>>>>> 3bf1da435182cb4dede7900311e27ffa19bbabf1
 }
